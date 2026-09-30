@@ -13,3 +13,4 @@ Everything ran on the GCP free tier plus trial credits.
 | Day | Topic | Hadoop equivalent | Key result |
 |---|---|---|---|
 | 00 | [Setup & cost guardrails](day00-setup/) | cluster provisioning | budget alerts, billing export, free dry runs |
+| 01 | [IAM & service accounts](day01-iam/) | Ranger + Kerberos principals | service account reads one dataset, denied the other |
