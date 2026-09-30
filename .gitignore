@@ -1,0 +1,15 @@
+# Terraform: provider binaries and local state (state lives in GCS)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local data dumps
+*.json.gz
