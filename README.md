@@ -15,3 +15,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 00 | [Setup & cost guardrails](day00-setup/) | cluster provisioning | budget alerts, billing export, free dry runs |
 | 01 | [IAM & service accounts](day01-iam/) | Ranger + Kerberos principals | service account reads one dataset, denied the other |
 | 02 | [Cloud Storage](day02-cloud-storage/) | HDFS | rename is a copy: 0.227 s per file to commit |
+| 03 | [BigQuery architecture](day03-bigquery-architecture/) | Hive, with no cluster to size | `SELECT *` cost 217x one column |
