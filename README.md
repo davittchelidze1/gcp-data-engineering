@@ -20,3 +20,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 05 | [BigQuery cost](day05-bigquery-cost/) | YARN job history | approx distinct: 4.4x less compute, 0.049% error |
 | 06 | [MERGE, recovery, security, ML](day06-bigquery-features-security/) | Hive MERGE + Ranger | SCD2 in one MERGE; row, column and view security |
 | 07 | [Dataproc, BigLake, Iceberg](day07-dataproc/) | your Spark cluster | serverless Spark job in 135 s, no cluster |
+| 08 | [Pub/Sub](day08-pubsub/) | Kafka | dead-lettered after 5 attempts; replay by timestamp |
