@@ -18,3 +18,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 03 | [BigQuery architecture](day03-bigquery-architecture/) | Hive, with no cluster to size | `SELECT *` cost 217x one column |
 | 04 | [Partitioning & clustering](day04-partitioning-clustering/) | Hive partitions & bucketing | 41x less scanned; wrong partition key 100x slower |
 | 05 | [BigQuery cost](day05-bigquery-cost/) | YARN job history | approx distinct: 4.4x less compute, 0.049% error |
+| 06 | [MERGE, recovery, security, ML](day06-bigquery-features-security/) | Hive MERGE + Ranger | SCD2 in one MERGE; row, column and view security |
