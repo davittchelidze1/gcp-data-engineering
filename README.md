@@ -25,3 +25,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 10 | [Dataflow](day10-dataflow/) | Spark on YARN, managed | bad rows quarantined with the reason |
 | 11 | [Orchestration & service choice](day11-orchestration/) | Airflow / Oozie | same DAG locally for $0 vs ~$300/mo Composer |
 | 12 | [Cost & observability](day12-cost-observability/) | YARN chargeback + Ganglia | all 14 days: $0.17 of credits, $0 card |
+| 13 | [Terraform](day13-terraform/) | Ansible / Ambari blueprints | destroyed and rebuilt in one command |
