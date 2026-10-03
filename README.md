@@ -21,3 +21,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 06 | [MERGE, recovery, security, ML](day06-bigquery-features-security/) | Hive MERGE + Ranger | SCD2 in one MERGE; row, column and view security |
 | 07 | [Dataproc, BigLake, Iceberg](day07-dataproc/) | your Spark cluster | serverless Spark job in 135 s, no cluster |
 | 08 | [Pub/Sub](day08-pubsub/) | Kafka | dead-lettered after 5 attempts; replay by timestamp |
+| 09 | [Beam model](day09-beam-model/) | Spark Streaming / Flink | late data silently dropped at 0 s lateness |
