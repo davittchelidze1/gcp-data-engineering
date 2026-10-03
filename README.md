@@ -26,3 +26,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 11 | [Orchestration & service choice](day11-orchestration/) | Airflow / Oozie | same DAG locally for $0 vs ~$300/mo Composer |
 | 12 | [Cost & observability](day12-cost-observability/) | YARN chargeback + Ganglia | all 14 days: $0.17 of credits, $0 card |
 | 13 | [Terraform](day13-terraform/) | Ansible / Ambari blueprints | destroyed and rebuilt in one command |
+| 14 | [**Capstone: incremental lakehouse**](day14-capstone-lakehouse/) | raw zone -> Spark -> Hive | ~31M rows, 0 mismatches vs ground truth |
