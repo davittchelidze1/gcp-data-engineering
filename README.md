@@ -23,3 +23,4 @@ Everything ran on the GCP free tier plus trial credits.
 | 08 | [Pub/Sub](day08-pubsub/) | Kafka | dead-lettered after 5 attempts; replay by timestamp |
 | 09 | [Beam model](day09-beam-model/) | Spark Streaming / Flink | late data silently dropped at 0 s lateness |
 | 10 | [Dataflow](day10-dataflow/) | Spark on YARN, managed | bad rows quarantined with the reason |
+| 11 | [Orchestration & service choice](day11-orchestration/) | Airflow / Oozie | same DAG locally for $0 vs ~$300/mo Composer |
