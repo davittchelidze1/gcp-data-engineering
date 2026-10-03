@@ -1,0 +1,10 @@
+{"event_id": 1, "user": "alice", "action": "click", "value": 10}
+{"event_id": 2, "user": "bob", "action": "view", "value": 3}
+THIS IS NOT JSON AT ALL
+{"event_id": 3, "user": "carol", "action": "click", "value": 7}
+{"event_id": 4, "user": "alice", "action": "purchase", "value": 120}
+{"event_id": 5, "user": "bob", "action": "click"}
+{"broken json": }
+{"event_id": 6, "user": "dave", "action": "view", "value": 1}
+{"event_id": 7, "user": "alice", "action": "click", "value": 5}
+{"event_id": 8, "user": "carol", "action": "purchase", "value": 45}
